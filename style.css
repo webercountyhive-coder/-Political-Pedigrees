@@ -204,3 +204,8 @@ details summary{font-size:18px}
 @media(max-width:900px){.mm-big{width:auto;left:0;transform:none}}
 .mm-big{overflow-x:auto;text-align:center}
 .mm-big .mermaid{display:inline-block}
+/* bulleted who's-who cards (Nov. 13, 2026) */
+.card-list{margin:4px 0 0;padding-left:20px}
+.card-list li{margin:0 0 10px;line-height:1.55}
+.card-list li:last-child{margin-bottom:0}
+.card p{margin:0 0 8px}
