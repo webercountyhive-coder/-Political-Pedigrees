@@ -9,7 +9,9 @@ var HBX = {
   "pages": [
     {"callNumber": "PP 000.01", "slug": "index", "name": "Political Pedigrees in Utah: the family trees"},
     {"callNumber": "PP 100.01", "slug": "ferry-family", "name": "The Ferry Family (Box Elder County)"},
-    {"callNumber": "PP 100.02", "slug": "ferry-family-plain", "name": "The Ferry Family, in plain words"}
+    {"callNumber": "PP 100.02", "slug": "ferry-family-plain", "name": "The Ferry Family, in plain words"},
+    {"callNumber": "PP 100.03", "slug": "gibson-family", "name": "The Gibson Family (Weber County)"},
+    {"callNumber": "PP 100.04", "slug": "gibson-family-plain", "name": "The Gibson Family, in plain words"}
   ],
   "shelves": {
     "000": "Start here",
